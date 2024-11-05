@@ -1,0 +1,5 @@
+numpy
+librosa
+joblib
+scikit-learn
+sounddevice
